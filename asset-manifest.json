@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Drinky/static/css/main.726f5cf3.chunk.css",
+    "main.js": "/Drinky/static/js/main.c3c4d7d9.chunk.js",
+    "main.js.map": "/Drinky/static/js/main.c3c4d7d9.chunk.js.map",
+    "runtime-main.js": "/Drinky/static/js/runtime-main.e0514771.js",
+    "runtime-main.js.map": "/Drinky/static/js/runtime-main.e0514771.js.map",
+    "static/js/2.72a6f195.chunk.js": "/Drinky/static/js/2.72a6f195.chunk.js",
+    "static/js/2.72a6f195.chunk.js.map": "/Drinky/static/js/2.72a6f195.chunk.js.map",
+    "static/js/3.547d0acc.chunk.js": "/Drinky/static/js/3.547d0acc.chunk.js",
+    "static/js/3.547d0acc.chunk.js.map": "/Drinky/static/js/3.547d0acc.chunk.js.map",
+    "index.html": "/Drinky/index.html",
+    "static/css/main.726f5cf3.chunk.css.map": "/Drinky/static/css/main.726f5cf3.chunk.css.map",
+    "static/js/2.72a6f195.chunk.js.LICENSE.txt": "/Drinky/static/js/2.72a6f195.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Drinky/static/media/waves.29443b21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0514771.js",
+    "static/js/2.72a6f195.chunk.js",
+    "static/css/main.726f5cf3.chunk.css",
+    "static/js/main.c3c4d7d9.chunk.js"
+  ]
+}
